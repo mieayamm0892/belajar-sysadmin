@@ -1,68 +1,68 @@
-# Minggu 1 - Linux Fundamental
+Minggu 1 - Linux Fundamental
 
-## Day 1 - Terminal Navigation
+Day 1 - Terminal Navigation
 
-* `pwd`
-* `cd`
-* `ls`
-* `mkdir`
-* `touch`
-* `cp`
-* `mv`
-* `nano`
+`pwd`
+`cd`
+`ls`
+`mkdir`
+`touch`
+`cp`
+`mv`
+`nano`
 
-## Day 2 - Linux Filesystem
+Day 2 - Linux Filesystem
 
-* Struktur direktori Linux
-* `/`
-* `/home`
-* `/etc`
-* `/usr`
-* `/var`
-* `/tmp`
-* `/boot`
-* `/root`
+Struktur direktori Linux
 
-## Day 3 - File Permissions
+`/`
+`/home`
+`/etc`
+`/usr`
+`/var`
+`/tmp`
+`/boot`
+`/root`
 
-* Owner
-* Group
-* Others
-* Read (`r`)
-* Write (`w`)
-* Execute (`x`)
-* Membaca permission (`-rw-r--r--`)
+Day 3 - File Permissions
 
-## Day 4 - chmod
+Owner
+Group
+Others
+Read (`r`)
+Write (`w`)
+Execute (`x`)
+Membaca permission (`-rw-r--r--`)
 
-* Symbolic Mode (`+`, `-`, `=`)
-* Numeric Mode (`755`, `644`, `640`, dll.)
+Day 4 - chmod
 
-## Day 5 - User & Group
+Symbolic Mode (`+`, `-`, `=`)
+Numeric Mode (`755`, `644`, `640`, dll.)
 
-* User
-* Group
-* UID
-* GID
-* `/etc/passwd`
-* `/etc/group`
-* `whoami`
-* `id`
-* `grep`
+Day 5 - User & Group
 
-## Day 6 - chown & chgrp
+User
+Group
+UID
+GID
+`/etc/passwd`
+`/etc/group`
+`whoami`
+`id`
+`grep`
 
-* `chown`
-* `chgrp`
-* `user:group`
-* Owner & Group
+Day 6 - chown & chgrp
 
-## Day 7 - Mini Project
+`chown`
+`chgrp`
+`user:group`
+Owner & Group
 
-* `mkdir`
-* `touch`
-* `ls -l`
-* `chmod`
-* `chown`
-* Permission Practice
+Day 7 - Mini Project
 
+`mkdir`
+`touch`
+`ls -l`
+`chmod`
+`chown`
+Permission Practice
